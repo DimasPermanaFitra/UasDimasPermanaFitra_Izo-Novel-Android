@@ -92,7 +92,7 @@
                             android:textStyle="bold"
                             android:layout_height="wrap_content"/>
                         <TextView
-                            android:textColor="@color/text_sub"
+                            android:textColor="@color/red"
                             android:layout_width="match_parent"
                             android:text="see yor list of novel"
                             android:layout_height="wrap_content"/>
@@ -130,7 +130,7 @@
                             android:textStyle="bold"
                             android:layout_height="wrap_content"/>
                         <TextView
-                            android:textColor="@color/text_sub"
+                            android:textColor="@color/red"
                             android:layout_width="match_parent"
                             android:text="add a new novel"
                             android:layout_height="wrap_content"/>
@@ -171,7 +171,7 @@
                             android:textStyle="bold"
                             android:layout_height="wrap_content"/>
                         <TextView
-                            android:textColor="@color/text_sub"
+                            android:textColor="@color/red"
                             android:layout_width="match_parent"
                             android:text="change or modify account"
                             android:layout_height="wrap_content"/>
@@ -200,7 +200,7 @@
                         android:layout_height="wrap_content"
                         android:text="Terbaik menurut pembaca"
                         android:layout_weight="1"
-                        android:textColor="@color/text_sub"/>
+                        android:textColor="@color/red"/>
                     <TextView
                         android:id="@+id/favorite_more"
                         android:layout_width="match_parent"
@@ -243,7 +243,7 @@
                         android:layout_height="wrap_content"
                         android:padding="7dp"
                         android:text="Judul novel ini judul"
-                        android:textColor="@color/text_sub"/>
+                        android:textColor="@color/red"/>
                 </LinearLayout>
                 <LinearLayout
                     android:layout_width="120dp"
@@ -260,7 +260,7 @@
                         android:layout_height="wrap_content"
                         android:padding="7dp"
                         android:text="Judul novel ini judul"
-                        android:textColor="@color/text_sub"/>
+                        android:textColor="@color/red"/>
                 </LinearLayout>
                 <LinearLayout
                     android:layout_width="120dp"
@@ -277,7 +277,7 @@
                         android:layout_height="wrap_content"
                         android:padding="7dp"
                         android:text="Judul novel ini judul"
-                        android:textColor="@color/text_sub"/>
+                        android:textColor="@color/red"/>
                 </LinearLayout>
                 <LinearLayout
                     android:layout_width="120dp"
@@ -294,7 +294,7 @@
                         android:layout_height="wrap_content"
                         android:padding="7dp"
                         android:text="Judul novel ini judul"
-                        android:textColor="@color/text_sub"/>
+                        android:textColor="@color/red"/>
                 </LinearLayout>
 
             </LinearLayout>
